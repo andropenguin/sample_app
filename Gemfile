@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.14'
+gem 'bootstrap-sass', '2.1'
 gem 'execjs'
 gem 'therubyracer'
 gem 'libv8', '3.16.14.3'
